@@ -1,3 +1,5 @@
 /data/test.record
 /data/train.record
 /data/penguin.record
+/exported_models/eff_det_7_22/
+/pre_trained_models/eff_det_7/
